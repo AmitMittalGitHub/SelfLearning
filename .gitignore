@@ -12,6 +12,8 @@
 /.sfdx
 /sfdx-project.json
 /.sf
+/sfdcAuthUrl.txt
+/authFile.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
