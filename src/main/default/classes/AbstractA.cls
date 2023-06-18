@@ -1,5 +1,5 @@
 public abstract  class  AbstractA {
-    public AbstractA(){//
+    public AbstractA(){// added
         system.debug('inside AbstractA Constructor');
     }
 	private String myPrivateMethod() {
