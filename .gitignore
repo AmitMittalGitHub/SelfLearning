@@ -14,7 +14,7 @@
 /.sf
 /sfdcAuthUrl.txt
 /authFile.json
-
+/.github
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
