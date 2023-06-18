@@ -1,9 +1,8 @@
 name: validateOnPull
-on: 
-  pull_request:
-    types: [opened, synchronize]
-    branches: [Dev]
-      
+on:
+    pull_request:
+      types: [opened, synchronize]
+      branches: [Dev]
       paths:
       - 'src/**'
 
